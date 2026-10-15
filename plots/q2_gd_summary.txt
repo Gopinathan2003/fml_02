@@ -1,0 +1,7 @@
+lambda_max(X^TX) = 250885.196107
+lambda_min(X^TX) = 823.874110
+condition number = 304.5188
+step size eta = 0.0000039728
+N_ITERS = 500
+Final dist ||w_T - w_ML||_2 = 0.06634606
+Initial dist ||w_0 - w_ML||_2 = 1.62155463

@@ -1,0 +1,6 @@
+N_INITS=100, N_ITERS=50, K=4
+Average final log-likelihood: -6625.0976
+Std of final log-likelihood: 8.8197
+Best final log-likelihood: -6607.8593
+Worst final log-likelihood: -6654.4380
+Best run mixing weights pi: [0.1855, 0.1573, 0.2508, 0.4064]

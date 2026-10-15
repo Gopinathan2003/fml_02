@@ -1,0 +1,4 @@
+batch_size=100, n_epochs=60, eta0=0.039728, t0=3000
+Total updates: 6000
+Final dist ||w_T - w_ML||_2 = 0.00293155
+Initial dist ||w_0 - w_ML||_2 = 1.62155463
